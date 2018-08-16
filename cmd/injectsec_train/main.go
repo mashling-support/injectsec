@@ -15,8 +15,8 @@ import (
 	"sort"
 	"strings"
 
-	dat "github.com/pointlander/injectsec/data"
-	"github.com/pointlander/injectsec/gru"
+	dat "github.com/mashling-support/injectsec/data"
+	"github.com/mashling-support/injectsec/gru"
 )
 
 var (
